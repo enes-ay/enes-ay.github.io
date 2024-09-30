@@ -2,7 +2,7 @@ import Image from 'next/image';
 import imgFoodDelivery from './images/food_delivery.png';
 import imgBooking from './images/booking.png';
 import imgFinancial from './images/financial.png';
-import { FaLinkedin, FaGithub, FaEnvelope } from 'react-icons/fa'; // Icons from react-icons
+import { FaLinkedin, FaGithub, FaEnvelope, FaMedium } from 'react-icons/fa'; // Icons from react-icons
 
 export default function Home() {
   return (
@@ -25,9 +25,10 @@ export default function Home() {
             <a href="https://github.com/enes-ay" target="_blank" rel="noopener noreferrer">
               <FaGithub className="text-gray-400 hover:text-white text-3xl" />
             </a>
-            <a href="mailto:enesay233@gmail.com">
-              <FaEnvelope className="text-gray-400 hover:text-white text-3xl" />
+            <a href="https://medium.com/@enes-ay">
+              <FaMedium className="text-gray-400 hover:text-white text-3xl" />
             </a>
+            
           </div>
         </div>
       </header>
