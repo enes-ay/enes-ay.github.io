@@ -58,7 +58,7 @@ export default function Home() {
                   className="rounded-lg shadow-md"
                 />
               </div>
-              <h3 className="text-xl text-white mb-2">Food Delivery App</h3>
+              <h3 className="text-xl text-white mb-2">Food Delivery</h3>
               <p className="text-gray-400">
                 An Android app for food delivery with Firebase integration and
                 Google Sign-In.
@@ -76,7 +76,7 @@ export default function Home() {
                   className="rounded-lg shadow-md"
                 />
               </div>
-              <h3 className="text-xl text-white mb-2">Booking App</h3>
+              <h3 className="text-xl text-white mb-2">Booking Clone</h3>
               <p className="text-gray-400">
                 A booking app with streamlined user experience and modern UI.
               </p>
@@ -94,7 +94,7 @@ export default function Home() {
                 />
               </div>
               <h3 className="text-xl text-white mb-2">
-                Financial Literacy App
+                Financial Literacy
               </h3>
               <p className="text-gray-400">
                 A mobile app to help users enhance their financial literacy
